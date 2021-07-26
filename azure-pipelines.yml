@@ -6,6 +6,7 @@ trigger:
       - "*"
 
 # Still allow PR builds to run against master
+# test
 pr:
 - master
 
