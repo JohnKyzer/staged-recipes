@@ -34,7 +34,7 @@ about:
   home: https://github.com/Zuzu-Typ/PyOgg
   summary: Xiph.org's Ogg Vorbis, Opus and FLAC for Python
   license: Unlicense
-  license_file: ../LICENSE.txt
+  license_file: LICENSE.txt
 
 extra:
   recipe-maintainers:
