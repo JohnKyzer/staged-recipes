@@ -36,7 +36,7 @@ requirements:
     - requests >=2.19.0
     - six
     - tensorflow
-    # - tensorflow-metadata
+    - tensorflow-metadata
     - termcolor
     - tqdm
     - typing-extensions  # [py<38]
