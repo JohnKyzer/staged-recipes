@@ -21,7 +21,7 @@ requirements:
   host:
     - pip
     - python
-    - version
+    # - version
   run:
     - absl-py
     - attrs >=18.1.0
