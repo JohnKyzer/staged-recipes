@@ -35,7 +35,6 @@ requirements:
     - python
     - requests >=2.19.0
     - six
-    - tensorflow
     - tensorflow-metadata
     - termcolor
     - tqdm
@@ -43,6 +42,7 @@ requirements:
 
 test:
   imports:
+    - tensorflow
     - tensorflow_datasets
     - tensorflow_datasets.audio
   commands:
