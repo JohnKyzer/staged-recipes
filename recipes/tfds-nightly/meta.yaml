@@ -43,11 +43,9 @@ requirements:
 
 test:
   imports:
-    - tensorflow
     - tensorflow_datasets
     - tensorflow_datasets.audio
   commands:
-    - pip check
     - tfds --help
   requires:
     - pip
