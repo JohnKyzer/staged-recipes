@@ -39,7 +39,7 @@ requirements:
     - termcolor
     - tqdm
     - typing-extensions  # [py<38]
-    - tensorflow >= 2.1.0
+    - tensorflow >=2.1.0
 
 test:
   imports:
