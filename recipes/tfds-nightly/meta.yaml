@@ -40,6 +40,7 @@ requirements:
     - tqdm
     - typing-extensions  # [py<38]
     - tensorflow >=2.1.0
+    - certifi
     
 test:
   imports:
