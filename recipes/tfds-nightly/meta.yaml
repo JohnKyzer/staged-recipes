@@ -23,7 +23,7 @@ requirements:
     - python
     # - version
   run:
-    - absl-py
+    - absl-py >=0.9
     - attrs >=18.1.0
     - dataclasses  # [py<37]
     - dill
@@ -40,7 +40,7 @@ requirements:
     - tqdm
     - typing-extensions  # [py<38]
     - tensorflow >=2.1.0
-
+    
 test:
   imports:
     - tensorflow_datasets
