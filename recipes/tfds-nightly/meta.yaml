@@ -32,7 +32,7 @@ requirements:
     - numpy
     - promise
     - protobuf >=3.12.2
-    - python<3.6, >3.6
+    - python
     - requests >=2.19.0
     - six
     - tensorflow-metadata
